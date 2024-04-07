@@ -13,6 +13,11 @@ platform.
 
 - It is mobile-first design approach
 
+#### SNAP OF THE DASHBOARD
+![DialingInsights2023-2024](/img/DasboardSnap.png)
+
+### [Live Link : Dialing Insights 2023-24](https://dialing-ecommerceinsights.netlify.app/)
+
 ### Documentation
 - To run project locally
   - You should have npm installed
@@ -20,8 +25,3 @@ platform.
 
     > npm run dev
   - It will run at LocalHost:  http://127.0.0.1:5173/
-
-#### SNAP OF THE DASHBOARD
-![DialingInsights2023-2024](/img/DasboardSnap.png)
-
-[Live Link : Dialing Insights 2023-24](https://dialing-ecommerceinsights.netlify.app/)
