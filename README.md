@@ -3,7 +3,7 @@
 This is a responsive and interactive dashboard/website that visualises data from a fictional(Dialing) e-commerce
 platform.
 
-## [Live Link : Dialing Insights 2023-24](https://dialing-ecommerceinsights.netlify.app/)
+### [Live Link : Dialing Insights 2023-24](https://dialing-ecommerceinsights.netlify.app/)
 
 ## Features
 
@@ -13,7 +13,8 @@ platform.
 
 #### Conversion Rate by First 10 months (Line Chart)
 
-![ConversionRateByFrist10Months](/img/LineChart.png)
+![ConversionRateByFrist10Months](/img/LineChart.png  )
+
 
 #### Revnue by Category (Pie chart)
 
@@ -25,7 +26,7 @@ platform.
 
 
 
-## Responsive Design
+### Responsive Design
 - We have used React for UI. This website/dashboard is fully responsive. 
 
 - It is mobile-first design approach
@@ -35,12 +36,12 @@ platform.
 ![DialingInsights2023-2024](/img/WebsiteView.png)
 
 ### Mobile View
-![MobileView](/img/MobileView1.png) ![MobileView](/img/MobileView2.png) ![MobileView](/img/MobileView3.png)
+![MobileView](/img/MobileView1.png)
 
 ### Technical Documentation
-- To run project locally
+- Run locally 
   - You should have npm installed
-  - For running, you can give command 
+  - Command to run project locally
 
     > npm run dev
   - It will run at LocalHost:  http://127.0.0.1:5173/
