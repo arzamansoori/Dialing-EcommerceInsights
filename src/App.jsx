@@ -42,7 +42,7 @@ function App() {
                         />
                     </div>
                     <div className="card bar-chart-container">
-                        <h2>Date by sales (Per orders)</h2>
+                        <h2>Sale by Month (Per orders)</h2>
                         <BarChart
                             height={500}
                             data={mockDataBarChart}
