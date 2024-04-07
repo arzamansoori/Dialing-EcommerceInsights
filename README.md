@@ -1,10 +1,27 @@
-# React + Vite
+# Dialing Insights 2023-2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive and interactive dashboard/website that visualises data from a fictional(Dialing) e-commerce
+platform.
 
-Currently, two official plugins are available:
+### Data Visualization:
+- I have used mock data to represent metrics like Sales, Revenue, User Conersion rate.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- I have used React, Vite and D3.js library to create graphs.
 
-[Live Link](https://dialing-ecommerceinsights.netlify.app/)
+### Responsive Design
+- This website/dashboard is fully responsive.
+
+- It is mobile-first design approach
+
+### Documentation
+- To run project locally
+  - You should have npm installed
+  - For running, you can give command 
+
+    > npm run dev
+  - It will run at LocalHost:  http://127.0.0.1:5173/
+
+#### SNAP OF THE DASHBOARD
+![DialingInsights2023-2024](/img/DasboardSnap.png)
+
+[Live Link : Dialing Insights 2023-24](https://dialing-ecommerceinsights.netlify.app/)

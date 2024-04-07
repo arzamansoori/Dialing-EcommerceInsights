@@ -12,7 +12,7 @@ function App() {
         <div className="wrapper">
             <h1>
                 <span className="thin">Dialing </span>
-                <span className="bold">e-commerce</span> Insights 2023-2024 
+                <span className="bold">Insights</span> 2023-2024 
             </h1>
             <main className="main">
                 <div className="grid">
